@@ -1,5 +1,5 @@
 # clustering-utility
-This utility's/project's purpose is to enable the automatic parameter selection and creation of hierarchical clustering models.
+This utility's/project's purpose is to enable the automatic parameter selection, testing and creation of hierarchical clustering models.
 
 It let's you:
   1) automatically select parameters based on cluster fullness
