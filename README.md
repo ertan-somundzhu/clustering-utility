@@ -9,3 +9,4 @@ It let's you:
   5) plot the dendogram
   6) assign cluster labels to each datapoint
 
+Note: dataframes with test results are coloured, but for some reason github decoloures them
